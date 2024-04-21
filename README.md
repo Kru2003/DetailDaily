@@ -1,0 +1,2 @@
+# DetailDaily
+ News summarization project
